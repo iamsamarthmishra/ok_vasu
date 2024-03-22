@@ -27,13 +27,13 @@ Vasu is a Python-based personal AI assistant designed to assist users with vario
 ## Dependencies (use)
 
 
-pyttsx3: Text-to-speech library for voice output.
-speech_recognition: Library for speech recognition.
-wikipedia: Library for fetching data from Wikipedia.
-wolframalpha: Library for accessing the WolframAlpha computational knowledge engine.
-requests: Library for making HTTP requests.
-webbrowser: Library for opening web browsers.
-ecapture: Library for capturing photos using the system camera.
+- **pyttsx3:** Text-to-speech library for voice output.
+- **speech_recognition:** Library for speech recognition.
+- **wikipedia:** Library for fetching data from Wikipedia.
+- **wolframalpha:** Library for accessing the WolframAlpha computational knowledge engine.
+- **requests:** Library for making HTTP requests.
+- **webbrowser:** Library for opening web browsers.
+- **ecapture:** Library for capturing photos using the system camera.
 
 
 
